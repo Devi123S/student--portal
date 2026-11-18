@@ -1,8 +1,5 @@
 
-# Student Portal
+<h1>Contact Us</h1>
 
 
-This is a simple Student Portal Web Application.
-
-
-Developed collaboratively using Git and GitHub.
+<p>Email: 251240150018@srcas.ac.in</p>
