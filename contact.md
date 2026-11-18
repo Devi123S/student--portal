@@ -1,5 +1,0 @@
-
-<h1>Contact Us</h1>
-
-
-<p>Email: studentportal@example.com</p>
